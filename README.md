@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">
+<p align="center">
   Full-Stack web developer experienced in
   JavaScript,
   React,
@@ -14,17 +14,14 @@
   PostgreSQL.
   With a multidisciplinary background in engineering, design, and international environments.
   Bringing a creative and problem-solving approach to scalable web applications and clean code practices.
-</h3>
-
+</p>
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/fatimaolea">
-    <img src="./square-linkedin-brands-solid(1).svg" alt="LinkedIn" width="34" height="34" />
+    <img src="./square-linkedin-brands-solid(1).svg" alt="LinkedIn" width="30" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://fatimaolea.dev">
-    <img src="./globe-solid.svg" alt="Website" width="34" height="34" />
+    <img src="./globe-solid.svg" alt="Website" width="30" height="30" />
   </a>
 </p>
-
-<br/>
