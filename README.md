@@ -23,10 +23,10 @@
 </p>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatimaolea" style="text-decoration: none;">
-    <img src="./square-linkedin-brands-solid(1).svg" alt="LinkedIn" width="30" height="30" border="0" />
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://fatimaolea.dev" style="text-decoration: none;">
     <img src="./globe-solid.svg" alt="Website" width="30" height="30" border="0" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fatimaolea" style="text-decoration: none;">
+    <img src="./square-linkedin-brands-solid(1).svg" alt="LinkedIn" width="30" height="30" border="0" />
   </a>
 </p>
