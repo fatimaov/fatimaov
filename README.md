@@ -82,7 +82,7 @@ Lightweight full-stack expense tracking application built and deployed end-to-en
 Collaborative React application focused on quiz flows, shared state management, and team-based development. I contribute to planning, architecture, documentation, code reviews, and implementation.
 
 **Tech:** React, Vite, GitHub Workflows, CSS Modules
-🔗 [Repository](https://github.com/dbedex-tech/Quiz-App)
+🔗 [Repository](https://github.com/fatimaov/Quiz-App)
 
 <br>
 
