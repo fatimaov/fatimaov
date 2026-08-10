@@ -1,10 +1,5 @@
-<p align="center">
-  <a href="https://fatimaolea.dev" style="text-decoration: none;">
-    <img src="./banner_dark.jpg" alt="Portfolio banner" border="0" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Fátima!</h1>
 
-<p align="center"> Full-Stack Developer with a background in Engineering, Design, and cross-functional collaboration. Passionate about building reliable applications, designing maintainable systems, and translating complex requirements into practical solutions. Interested in software engineering, product development, and scalable web applications.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
@@ -25,11 +20,11 @@
 
 <br/>
 
-<p align="center"> <a href="https://fatimaolea.dev" style="text-decoration: none;"> <img src="./globe-solid.svg" alt="Website" width="30" height="30" border="0" /> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/fatimaolea" style="text-decoration: none;"> <img src="./square-linkedin-brands-solid(1).svg" alt="LinkedIn" width="30" height="30" border="0" /> </a>
+<p >
 </p>
 
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Industrial Design & Product Development Engineer
 - 💻 Full-Stack Developer focused on building maintainable web applications
@@ -38,22 +33,15 @@
 - 🌍 Comfortable working in international and multidisciplinary environments
 - 📋 Skilled at translating complex requirements into structured implementation plans
 
-## 🎓 Education
 
-| Degree / Program | Institution | Focus |
-|---|---|---|
-| Industrial Design & Product Development Engineering | Universidad Politécnica de Madrid (UPM) | Systems thinking, product development, problem-solving, structured decision-making |
-| Digital Marketing, Advertising & Multimedia Design | NETT Digital School | Communication, branding, user-centered thinking, digital products |
-| Full-Stack Development with AI | 4Geeks Academy | Full-stack applications, APIs, databases, software development workflows |
-
-## 📍 Availability
+## Availability
 
 - Open to remote opportunities
 - Open to hybrid or on-site roles in Madrid
 - Open to relocation opportunities
 - Interested in international and multidisciplinary environments
 
-## ⭐ Currently
+## Currently
 
 - Building and deploying full-stack applications with React, Flask, and PostgreSQL
 - Exploring software architecture, testing, and scalable application design
@@ -61,36 +49,29 @@
 - Applying AI-assisted development workflows to support planning, implementation, and learning
 - Seeking opportunities where I can contribute to product development while continuing to grow as a software engineer
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### PetSpot
-Full-stack pet-friendly reservation platform featuring multi-role authentication, map-based place discovery, pet profiles, favorites, reservations, reviews, integrated payments, and real-time chat.
-
-**Tech:** React, Flask, PostgreSQL, JWT, Google Maps, PayPal, Socket.IO, Cloudinary
-🔗 [Repository](https://github.com/fatimaov/petspot)
-
-### BowlMix *(In Progress)*
+### ⭐ BowlMix *(In Progress)*
 Full-stack application for generating personalized bowls based on available ingredients, combining structured generation logic with future AI-assisted recommendations.
 
 **Tech:** React, Vite, Flask, PostgreSQL, SQLAlchemy, JWT, Bootstrap, Gemini AI
 🔗 [Repository](https://github.com/fatimaov/BowlMixApp)
 
-### Expense Tracker
+### ⭐ DevQuiz 
+Collaborative React application focused on quiz flows, shared state management, and team-based development. I contribute to planning, architecture, documentation, code reviews, and implementation.
+
+**Tech:** React, Vite, Vercel Serverless Functions
+🔗 [Repository](https://github.com/Mondra-SRL/dev-quiz)
+
+### ⭐ Expense Tracker
 Lightweight full-stack expense tracking application built and deployed end-to-end while experimenting with AI-assisted development workflows and spec-driven implementation.
 
 **Tech:** React, Flask, PostgreSQL
 🔗 [Repository](https://github.com/fatimaov/expense-tracker)
 
-### Quiz App *(In Progress)*
-Collaborative React application focused on quiz flows, shared state management, and team-based development. I contribute to planning, architecture, documentation, code reviews, and implementation.
+### ⭐ PetSpot
+Full-stack pet-friendly reservation platform featuring multi-role authentication, map-based place discovery, pet profiles, favorites, reservations, reviews, integrated payments, and real-time chat.
 
-**Tech:** React, Vite, GitHub Workflows, CSS Modules
-🔗 [Repository](https://github.com/Mondra-SRL/dev-quiz)
+**Tech:** React, Flask, PostgreSQL, JWT, Google Maps, PayPal, Socket.IO, Cloudinary
+🔗 [Repository](https://github.com/fatimaov/petspot)
 
-<br>
-
-<h3 align="center">
-  Thanks for stopping by! Feel free to 
-  <a href="https://www.linkedin.com/in/fatimaolea">connect</a>, 
-  say hello, or reach out if you'd like to collaborate on a project.
-</h3>
